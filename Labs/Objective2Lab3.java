@@ -3,7 +3,7 @@ public class Objective2Lab3 {
     double num1 = 12;
     double num2 = 22;
     double num3 = 35;
-    Average = (num1 + num2 + num3) / 3;
-    System.out.println(Average);
+    double average = (num1 + num2 + num3) / 3;
+    System.out.println(average);
   }
 }
