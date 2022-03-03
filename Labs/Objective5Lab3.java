@@ -17,5 +17,7 @@ public class Objective5Lab3 {
     else {
       System.out.println(userNum + " is equal to 0. " );
     }
+
+    scanner.close();
   }
 }
