@@ -21,8 +21,10 @@ public class Objective7Lab5 {
       }
       else if(selection == 3){
         System.out.println("Goodbye");
+        break;
       }
-      scanner.close();
+
     }
+    scanner.close();
   }
 }
