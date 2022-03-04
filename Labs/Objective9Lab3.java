@@ -18,9 +18,11 @@ public class Objective9Lab3 {
       }
       if(selection == 3){
         System.out.println("Goodbye");
+        break;
       }
-      scanner.close();
+
     }
+    scanner.close();
 }
     public static void printMenu() {
       System.out.println("____Menu____");
